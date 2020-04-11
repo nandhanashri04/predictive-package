@@ -1,5 +1,3 @@
-# predictive-package
-
 # -*- coding: utf-8 -*-
 """Final package.ipynb
 
